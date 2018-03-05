@@ -1,4 +1,4 @@
-//added slider
+//added slider & added to musical instrument
 //*had issue trying to fit the slider into background and not overlay the other code. 
 
 var freq = [174,196,220,246];
